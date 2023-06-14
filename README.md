@@ -1,4 +1,4 @@
-# Menards-Rebate-Checker-iOS
+# Menards Rebate Checker for iOS
 
 Simple iOS app to check Menards Rebates.
 
